@@ -1,4 +1,4 @@
-package com.joker.dto;
+package com.joker.entity.dto;
 
 import lombok.Data;
 

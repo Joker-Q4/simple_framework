@@ -3,7 +3,7 @@ package com.demo.annotation;
 public class AnnotationDemo {
 
     public static void main(String[] args) {
-        JokerCourse jokerCourse = new JokerCourse();
+        English jokerCourse = new English();
         jokerCourse.getCourseInfo();
         System.out.println("finish");
     }

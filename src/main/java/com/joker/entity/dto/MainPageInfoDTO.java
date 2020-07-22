@@ -1,7 +1,7 @@
-package com.joker.dto;
+package com.joker.entity.dto;
 
-import com.joker.entity.HeadLine;
-import com.joker.entity.ShopCategory;
+import com.joker.entity.bo.HeadLine;
+import com.joker.entity.bo.ShopCategory;
 import lombok.Data;
 
 import java.util.List;

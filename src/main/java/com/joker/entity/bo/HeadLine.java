@@ -1,4 +1,4 @@
-package com.joker.entity;
+package com.joker.entity.bo;
 
 import lombok.Data;
 

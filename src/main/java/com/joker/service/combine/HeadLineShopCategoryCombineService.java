@@ -1,7 +1,7 @@
 package com.joker.service.combine;
 
-import com.joker.dto.MainPageInfoDTO;
-import com.joker.dto.Result;
+import com.joker.entity.dto.MainPageInfoDTO;
+import com.joker.entity.dto.Result;
 
 public interface HeadLineShopCategoryCombineService {
 

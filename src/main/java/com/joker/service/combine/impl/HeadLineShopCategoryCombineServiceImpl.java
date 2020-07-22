@@ -1,9 +1,9 @@
 package com.joker.service.combine.impl;
 
-import com.joker.dto.MainPageInfoDTO;
-import com.joker.dto.Result;
-import com.joker.entity.HeadLine;
-import com.joker.entity.ShopCategory;
+import com.joker.entity.dto.MainPageInfoDTO;
+import com.joker.entity.dto.Result;
+import com.joker.entity.bo.HeadLine;
+import com.joker.entity.bo.ShopCategory;
 import com.joker.service.combine.HeadLineShopCategoryCombineService;
 import com.joker.service.solo.HeadLineService;
 import com.joker.service.solo.ShopCategoryService;

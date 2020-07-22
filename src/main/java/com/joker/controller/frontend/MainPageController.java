@@ -1,7 +1,7 @@
 package com.joker.controller.frontend;
 
-import com.joker.dto.MainPageInfoDTO;
-import com.joker.dto.Result;
+import com.joker.entity.dto.MainPageInfoDTO;
+import com.joker.entity.dto.Result;
 import com.joker.service.combine.HeadLineShopCategoryCombineService;
 
 import javax.servlet.http.HttpServletRequest;

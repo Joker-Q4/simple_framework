@@ -1,7 +1,7 @@
 package com.joker.controller.superadmin;
 
-import com.joker.dto.Result;
-import com.joker.entity.ShopCategory;
+import com.joker.entity.dto.Result;
+import com.joker.entity.bo.ShopCategory;
 import com.joker.service.solo.ShopCategoryService;
 
 import javax.servlet.http.HttpServletRequest;

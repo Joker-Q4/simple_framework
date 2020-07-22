@@ -1,7 +1,7 @@
 package com.joker.controller.superadmin;
 
-import com.joker.dto.Result;
-import com.joker.entity.HeadLine;
+import com.joker.entity.dto.Result;
+import com.joker.entity.bo.HeadLine;
 import com.joker.service.solo.HeadLineService;
 
 import javax.servlet.http.HttpServletRequest;

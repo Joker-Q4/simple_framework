@@ -1,7 +1,7 @@
 package com.joker.service.solo;
 
-import com.joker.dto.Result;
-import com.joker.entity.HeadLine;
+import com.joker.entity.dto.Result;
+import com.joker.entity.bo.HeadLine;
 
 import java.util.List;
 

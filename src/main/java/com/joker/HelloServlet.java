@@ -1,6 +1,6 @@
 package com.joker;
 
-import com.joker.entity.HeadLine;
+import com.joker.entity.bo.HeadLine;
 import lombok.extern.slf4j.Slf4j;
 
 import javax.servlet.ServletException;

@@ -4,7 +4,7 @@ package com.demo.annotation;
         courseName = "起的名字",
         courseTag = "提升",
         courseProfile = "简介")
-public class JokerCourse {
+public class English {
 
     @PersonInfoAnnotation(name = "hh", language = {"java", "c++"})
     private String author;
