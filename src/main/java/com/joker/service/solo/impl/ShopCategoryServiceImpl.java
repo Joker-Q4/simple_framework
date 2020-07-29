@@ -3,9 +3,11 @@ package com.joker.service.solo.impl;
 import com.joker.entity.dto.Result;
 import com.joker.entity.bo.ShopCategory;
 import com.joker.service.solo.ShopCategoryService;
+import org.simpleframework.core.annotation.Service;
 
 import java.util.List;
 
+@Service
 public class ShopCategoryServiceImpl implements ShopCategoryService {
 
     @Override

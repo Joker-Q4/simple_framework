@@ -7,12 +7,17 @@ import com.joker.entity.bo.ShopCategory;
 import com.joker.service.combine.HeadLineShopCategoryCombineService;
 import com.joker.service.solo.HeadLineService;
 import com.joker.service.solo.ShopCategoryService;
+import org.simpleframework.core.annotation.Service;
+import org.simpleframework.inject.annotation.Autowired;
 
 import java.util.List;
 
+@Service
 public class HeadLineShopCategoryCombineServiceImpl implements HeadLineShopCategoryCombineService {
 
+    @Autowired
     private HeadLineService headLineService;
+    @Autowired
     private ShopCategoryService shopCategoryService;
 
     @Override

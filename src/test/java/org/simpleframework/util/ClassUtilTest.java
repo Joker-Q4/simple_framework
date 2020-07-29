@@ -1,7 +1,6 @@
 package org.simpleframework.util;
 
-import org.elasticsearch.Assertions;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import java.util.Set;
 
